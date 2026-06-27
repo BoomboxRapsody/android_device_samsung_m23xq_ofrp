@@ -52,7 +52,7 @@ repo sync
 ```
 Finally execute these:
 ```
-. build/envsetup.sh
+source build/envsetup.sh
 export ALLOW_MISSING_DEPENDENCIES=true
 lunch twrp_m23xq-eng
 mka adbd recoveryimage
