@@ -43,7 +43,7 @@ Then add to a local manifest (if you don't have .repo/local_manifest then make t
 <manifest>
   <remote name="me" 
         fetch="https://github.com/BoomboxRapsody" />
-  <project name="android_device_samsung_m23xq_ofrp" path="device/samsung/m23xq" remote="me" revision="ofrp_12.1"/>
+  <project name="android_device_samsung_m23xq_ofrp" path="device/samsung/m23xq" remote="me" revision="ofox_12.1"/>
 </manifest>
 ```
 Now you can sync your source:
