@@ -42,7 +42,7 @@ Then add to a local manifest (if you don't have .repo/local_manifest then make t
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="me" 
-        fetch="https://github.com/Aflaungos" />
+        fetch="https://github.com/BoomboxRapsody" />
   <project name="android_device_samsung_m23xq_ofrp" path="device/samsung/m23xq" remote="me" revision="ofrp_12.1"/>
 </manifest>
 ```
