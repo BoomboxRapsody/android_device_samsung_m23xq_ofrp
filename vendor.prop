@@ -10,8 +10,3 @@ ro.hardware.gatekeeper=mdfpp
 
 # USB
 vendor.usb.use_ffs_mtp=1
-
-# LineageOS patch
-ro.vendor.build.version.release=15
-ro.vendor.build.version.security_patch=2025-08-01
-ro.vendor.build.security_patch=2025-08-01
